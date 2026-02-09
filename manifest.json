@@ -3,6 +3,11 @@
     "forge_version": "47.2.0",
     "mods": [
         {
+            "name": "voicechat-forge-1.20.1-2.6.11.jar",
+            "hash": "b3192730c7e28ceeeafc0521c79e7eca",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.11.jar"
+        },
+        {
             "name": "balm-forge-1.20.1-7.3.38-all.jar",
             "hash": "499467bc8050be8893b08995438cc026",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/balm-forge-1.20.1-7.3.38-all.jar"
