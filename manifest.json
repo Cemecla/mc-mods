@@ -3,6 +3,11 @@
     "forge_version": "47.2.0",
     "mods": [
         {
+            "name": "cloth-config-11.1.136-forge.jar",
+            "hash": "ca5de5acbcb4a30c010aa6953bd7ef53",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/cloth-config-11.1.136-forge.jar"
+        },
+        {
             "name": "sketches_veinminer-1.0.10-forge-1.20.1.jar",
             "hash": "ab595ce5784d8069518706c5299af31b",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/sketches_veinminer-1.0.10-forge-1.20.1.jar"
@@ -38,9 +43,19 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/create-1.20.1-6.0.8.jar"
         },
         {
+            "name": "sophisticatedcore-1.20.1-1.3.3.1482.jar",
+            "hash": "530785fca963155074190a5e62bd5eba",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/sophisticatedcore-1.20.1-1.3.3.1482.jar"
+        },
+        {
             "name": "waystones-forge-1.20.1-14.1.18.jar",
             "hash": "deff2b7c26f63c78000f208495de3e0b",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/waystones-forge-1.20.1-14.1.18.jar"
+        },
+        {
+            "name": "architectury-9.2.14-forge.jar",
+            "hash": "76b40d407b6bf0257dd1dab6d3d395d5",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/architectury-9.2.14-forge.jar"
         },
         {
             "name": "artifacts-forge-9.5.16.jar",
@@ -51,11 +66,6 @@
             "name": "curios-forge-5.14.1+1.20.1.jar",
             "hash": "2fdcc97cbc66c4b2492b407c792e7159",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/curios-forge-5.14.1+1.20.1.jar"
-        },
-        {
-            "name": "Voiceless Survival-forge-1.20.1-2.0.1.jar",
-            "hash": "d08cf7829bc004ceba45c5e4a7e3e33c",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Voiceless Survival-forge-1.20.1-2.0.1.jar"
         }
     ]
 }
