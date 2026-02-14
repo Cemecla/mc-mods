@@ -8,11 +8,6 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/cloth-config-11.1.136-forge.jar"
         },
         {
-            "name": "sketches_veinminer-1.0.10-forge-1.20.1.jar",
-            "hash": "ab595ce5784d8069518706c5299af31b",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/sketches_veinminer-1.0.10-forge-1.20.1.jar"
-        },
-        {
             "name": "voicechat-forge-1.20.1-2.6.11.jar",
             "hash": "b3192730c7e28ceeeafc0521c79e7eca",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.11.jar"
@@ -66,6 +61,11 @@
             "name": "curios-forge-5.14.1+1.20.1.jar",
             "hash": "2fdcc97cbc66c4b2492b407c792e7159",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/curios-forge-5.14.1+1.20.1.jar"
+        },
+        {
+            "name": "TreeLumber-1.2--1.20.X.jar",
+            "hash": "669d0f0760a24432e787388954994a79",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/TreeLumber-1.2--1.20.X.jar"
         }
     ]
 }
