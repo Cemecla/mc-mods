@@ -13,6 +13,11 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.11.jar"
         },
         {
+            "name": "xaerominimap-forge-1.20.1-25.3.10.jar",
+            "hash": "2847dc482588772ec551a5b5112dc686",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/xaerominimap-forge-1.20.1-25.3.10.jar"
+        },
+        {
             "name": "balm-forge-1.20.1-7.3.38-all.jar",
             "hash": "499467bc8050be8893b08995438cc026",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/balm-forge-1.20.1-7.3.38-all.jar"
@@ -63,9 +68,9 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/curios-forge-5.14.1+1.20.1.jar"
         },
         {
-            "name": "TreeLumber-1.2--1.20.X.jar",
-            "hash": "669d0f0760a24432e787388954994a79",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/TreeLumber-1.2--1.20.X.jar"
+            "name": "treechop-1.0.0.jar",
+            "hash": "f77b5c1ee4b8b273a26082b561edb788",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/treechop-1.0.0.jar"
         }
     ]
 }
