@@ -8,6 +8,11 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/cloth-config-11.1.136-forge.jar"
         },
         {
+            "name": "Creeper Damage Control v1.0.0.jar",
+            "hash": "34887fcdd42e6f72e00d34c31edb9797",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Creeper Damage Control v1.0.0.jar"
+        },
+        {
             "name": "voicechat-forge-1.20.1-2.6.11.jar",
             "hash": "b3192730c7e28ceeeafc0521c79e7eca",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.11.jar"
