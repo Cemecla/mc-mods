@@ -18,9 +18,24 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.11.jar"
         },
         {
+            "name": "alekiNiftyShips-FORGE-1.20.1-1.0.14.jar",
+            "hash": "826feae586b23c81db1efc902bdaf481",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/alekiNiftyShips-FORGE-1.20.1-1.0.14.jar"
+        },
+        {
+            "name": "pipez-1.20.1-1.2.5.jar",
+            "hash": "8448af4aeab6d1ca860c645c96da376d",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/pipez-1.20.1-1.2.5.jar"
+        },
+        {
             "name": "balm-forge-1.20.1-7.3.38-all.jar",
             "hash": "499467bc8050be8893b08995438cc026",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/balm-forge-1.20.1-7.3.38-all.jar"
+        },
+        {
+            "name": "FarmersDelight-1.20.1-1.2.10.jar",
+            "hash": "c429c87877d1a843209153a092e08c3f",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/FarmersDelight-1.20.1-1.2.10.jar"
         },
         {
             "name": "sophisticatedbackpacks-1.20.1-3.24.23.1529.jar",
@@ -76,6 +91,11 @@
             "name": "curios-forge-5.14.1+1.20.1.jar",
             "hash": "2fdcc97cbc66c4b2492b407c792e7159",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/curios-forge-5.14.1+1.20.1.jar"
+        },
+        {
+            "name": "trotting_wagons-1.0.4.jar",
+            "hash": "1827e0bef6458ab33ee580b8a886c09e",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/trotting_wagons-1.0.4.jar"
         }
     ]
 }
