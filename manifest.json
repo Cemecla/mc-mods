@@ -91,11 +91,6 @@
             "name": "curios-forge-5.14.1+1.20.1.jar",
             "hash": "2fdcc97cbc66c4b2492b407c792e7159",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/curios-forge-5.14.1+1.20.1.jar"
-        },
-        {
-            "name": "trotting_wagons-1.0.4.jar",
-            "hash": "1827e0bef6458ab33ee580b8a886c09e",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/trotting_wagons-1.0.4.jar"
         }
     ]
 }
