@@ -73,6 +73,11 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/waystones-forge-1.20.1-14.1.18.jar"
         },
         {
+            "name": "LuckPerms-Forge-5.4.102.jar",
+            "hash": "1f1d23fbf1b5ab2a1b28054a278cfa19",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/LuckPerms-Forge-5.4.102.jar"
+        },
+        {
             "name": "architectury-9.2.14-forge.jar",
             "hash": "76b40d407b6bf0257dd1dab6d3d395d5",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/architectury-9.2.14-forge.jar"
