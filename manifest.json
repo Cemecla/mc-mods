@@ -28,6 +28,11 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/smallships-forge-1.20.1-2.0.0-b1.4.jar"
         },
         {
+            "name": "Immersive Vehicles-1.20.1-23.0.0.jar",
+            "hash": "03bdda40817072bc72e21ab88bb1186b",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Immersive Vehicles-1.20.1-23.0.0.jar"
+        },
+        {
             "name": "pipez-1.20.1-1.2.5.jar",
             "hash": "8448af4aeab6d1ca860c645c96da376d",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/pipez-1.20.1-1.2.5.jar"
