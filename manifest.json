@@ -13,6 +13,11 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Creeper Damage Control v1.0.0.jar"
         },
         {
+            "name": "create-automotives-1.20.1-V1.jar",
+            "hash": "03c2048b219975273526eb03a7c7d483",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/create-automotives-1.20.1-V1.jar"
+        },
+        {
             "name": "voicechat-forge-1.20.1-2.6.11.jar",
             "hash": "b3192730c7e28ceeeafc0521c79e7eca",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.11.jar"
