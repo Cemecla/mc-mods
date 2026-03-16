@@ -98,6 +98,11 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/architectury-9.2.14-forge.jar"
         },
         {
+            "name": "ftb-library-forge-2001.2.12.jar",
+            "hash": "8bbd067159587d80f1c5286ea52e567b",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/ftb-library-forge-2001.2.12.jar"
+        },
+        {
             "name": "Disenchanting-forge-1.20.1-2.2.4.jar",
             "hash": "ce32b95b6044cfcade5fc8bae1dd985f",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Disenchanting-forge-1.20.1-2.2.4.jar"
