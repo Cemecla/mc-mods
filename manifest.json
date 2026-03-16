@@ -23,6 +23,11 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.11.jar"
         },
         {
+            "name": "ftb-essentials-forge-2001.2.4.jar",
+            "hash": "c46c0af33a0452001e8628075b341eb2",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/ftb-essentials-forge-2001.2.4.jar"
+        },
+        {
             "name": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
             "hash": "c52bf453f18b87f43cae36acf628eb60",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/smallships-forge-1.20.1-2.0.0-b1.4.jar"
@@ -111,6 +116,11 @@
             "name": "curios-forge-5.14.1+1.20.1.jar",
             "hash": "2fdcc97cbc66c4b2492b407c792e7159",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/curios-forge-5.14.1+1.20.1.jar"
+        },
+        {
+            "name": "effortlessbuilding-1.20.1-3.10.jar",
+            "hash": "a57660341d13ed1cc5d4f1dae9f79e20",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/effortlessbuilding-1.20.1-3.10.jar"
         },
         {
             "name": "trotting_wagons-1.0.4.jar",
