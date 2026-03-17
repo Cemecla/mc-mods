@@ -83,19 +83,9 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/waystones-forge-1.20.1-14.1.18.jar"
         },
         {
-            "name": "ftb-library-forge-2001.2.9.jar",
-            "hash": "cdf8b270d3ee2c403a26206b10e0a749",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/ftb-library-forge-2001.2.9.jar"
-        },
-        {
             "name": "LuckPerms-Forge-5.4.102.jar",
             "hash": "1f1d23fbf1b5ab2a1b28054a278cfa19",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/LuckPerms-Forge-5.4.102.jar"
-        },
-        {
-            "name": "ftb-essentials-forge-2001.2.3.jar",
-            "hash": "5d3acae1dc695190604bd4a2f5423d06",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/ftb-essentials-forge-2001.2.3.jar"
         },
         {
             "name": "architectury-9.2.14-forge.jar",
