@@ -18,6 +18,11 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/create-automotives-1.20.1-V1.jar"
         },
         {
+            "name": "kubejs-forge-2001.6.5-build.16.jar",
+            "hash": "f4c6924bef764748d26ee51e4d4c0b00",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/kubejs-forge-2001.6.5-build.16.jar"
+        },
+        {
             "name": "voicechat-forge-1.20.1-2.6.11.jar",
             "hash": "b3192730c7e28ceeeafc0521c79e7eca",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.11.jar"
