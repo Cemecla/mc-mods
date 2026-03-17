@@ -23,11 +23,6 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.11.jar"
         },
         {
-            "name": "ftb-essentials-forge-2001.2.4.jar",
-            "hash": "c46c0af33a0452001e8628075b341eb2",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/ftb-essentials-forge-2001.2.4.jar"
-        },
-        {
             "name": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
             "hash": "c52bf453f18b87f43cae36acf628eb60",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/smallships-forge-1.20.1-2.0.0-b1.4.jar"
@@ -88,19 +83,24 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/waystones-forge-1.20.1-14.1.18.jar"
         },
         {
+            "name": "ftb-library-forge-2001.2.9.jar",
+            "hash": "cdf8b270d3ee2c403a26206b10e0a749",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/ftb-library-forge-2001.2.9.jar"
+        },
+        {
             "name": "LuckPerms-Forge-5.4.102.jar",
             "hash": "1f1d23fbf1b5ab2a1b28054a278cfa19",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/LuckPerms-Forge-5.4.102.jar"
         },
         {
+            "name": "ftb-essentials-forge-2001.2.3.jar",
+            "hash": "5d3acae1dc695190604bd4a2f5423d06",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/ftb-essentials-forge-2001.2.3.jar"
+        },
+        {
             "name": "architectury-9.2.14-forge.jar",
             "hash": "76b40d407b6bf0257dd1dab6d3d395d5",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/architectury-9.2.14-forge.jar"
-        },
-        {
-            "name": "ftb-library-forge-2001.2.12.jar",
-            "hash": "8bbd067159587d80f1c5286ea52e567b",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/ftb-library-forge-2001.2.12.jar"
         },
         {
             "name": "Disenchanting-forge-1.20.1-2.2.4.jar",
