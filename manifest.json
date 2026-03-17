@@ -118,6 +118,11 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/curios-forge-5.14.1+1.20.1.jar"
         },
         {
+            "name": "rhino-forge-2001.2.3-build.10.jar",
+            "hash": "59387620b0ef6becbff02c7c1636ad3e",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/rhino-forge-2001.2.3-build.10.jar"
+        },
+        {
             "name": "effortlessbuilding-1.20.1-3.10.jar",
             "hash": "a57660341d13ed1cc5d4f1dae9f79e20",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/effortlessbuilding-1.20.1-3.10.jar"
