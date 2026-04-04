@@ -8,14 +8,29 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/cloth-config-11.1.136-forge.jar"
         },
         {
+            "name": "createaddition-1.20.1-1.2.5.jar",
+            "hash": "76ba80eb6c017d3b8703581af4928895",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/createaddition-1.20.1-1.2.5.jar"
+        },
+        {
             "name": "Creeper Damage Control v1.0.0.jar",
             "hash": "34887fcdd42e6f72e00d34c31edb9797",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Creeper Damage Control v1.0.0.jar"
         },
         {
-            "name": "create-automotives-1.20.1-V1.jar",
-            "hash": "03c2048b219975273526eb03a7c7d483",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/create-automotives-1.20.1-V1.jar"
+            "name": "sophisticatedcore-1.20.1-1.3.13.1588.jar",
+            "hash": "d998ae4700da3e4fadd78157e1526f1f",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/sophisticatedcore-1.20.1-1.3.13.1588.jar"
+        },
+        {
+            "name": "StorageDrawers-forge-1.20.1-12.14.3.jar",
+            "hash": "b028423a78cf22d461e00ac681b59eb2",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/StorageDrawers-forge-1.20.1-12.14.3.jar"
+        },
+        {
+            "name": "ferritecore-6.0.1-forge.jar",
+            "hash": "f52f538207a4829d7060550092ce2383",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/ferritecore-6.0.1-forge.jar"
         },
         {
             "name": "kubejs-forge-2001.6.5-build.16.jar",
@@ -23,19 +38,24 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/kubejs-forge-2001.6.5-build.16.jar"
         },
         {
-            "name": "voicechat-forge-1.20.1-2.6.11.jar",
-            "hash": "b3192730c7e28ceeeafc0521c79e7eca",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.11.jar"
+            "name": "deltaboxlib-forge-2.2.0+1.20.1.jar",
+            "hash": "0b99cd9f14b23e69f1427e34bd211702",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/deltaboxlib-forge-2.2.0+1.20.1.jar"
         },
         {
-            "name": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
-            "hash": "c52bf453f18b87f43cae36acf628eb60",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/smallships-forge-1.20.1-2.0.0-b1.4.jar"
+            "name": "simpleclouds-0.7.3+1.20.1-forge-all.jar",
+            "hash": "2269152496bd684d06f75192e33a1d4a",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/simpleclouds-0.7.3+1.20.1-forge-all.jar"
         },
         {
-            "name": "Immersive Vehicles-1.20.1-23.0.0.jar",
-            "hash": "03bdda40817072bc72e21ab88bb1186b",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Immersive Vehicles-1.20.1-23.0.0.jar"
+            "name": "createdieselgenerators-1.20.1-1.2i.jar",
+            "hash": "86d2d812dd65181683230e79d1585d58",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/createdieselgenerators-1.20.1-1.2i.jar"
+        },
+        {
+            "name": "gpumemleakfix-1.20.1-1.8.jar",
+            "hash": "e5028e9da74761f26c00c546c8ebdc4d",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/gpumemleakfix-1.20.1-1.8.jar"
         },
         {
             "name": "pipez-1.20.1-1.2.5.jar",
@@ -48,19 +68,34 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/balm-forge-1.20.1-7.3.38-all.jar"
         },
         {
-            "name": "FarmersDelight-1.20.1-1.2.10.jar",
-            "hash": "c429c87877d1a843209153a092e08c3f",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/FarmersDelight-1.20.1-1.2.10.jar"
+            "name": "sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+            "hash": "1872825103a6642f5f8a3519a9c274d7",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/sophisticatedbackpacks-1.20.1-3.24.31.1628.jar"
         },
         {
-            "name": "sophisticatedbackpacks-1.20.1-3.24.23.1529.jar",
-            "hash": "6b0e1d5af13159ca9c306e10b4abc416",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/sophisticatedbackpacks-1.20.1-3.24.23.1529.jar"
+            "name": "createbigcannons-5.8.2-mc.1.20.1-forge.jar",
+            "hash": "a62dc588e1a6ec6a8886eeccc3f7c969",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/createbigcannons-5.8.2-mc.1.20.1-forge.jar"
+        },
+        {
+            "name": "createpropulsion-0.2.0.jar",
+            "hash": "64a245e9979b57391024f1f7e0573e85",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/createpropulsion-0.2.0.jar"
+        },
+        {
+            "name": "Steam_Rails-1.6.7+forge-mc1.20.1.jar",
+            "hash": "32a83dba6630165e1415f9e78d4aaf2e",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Steam_Rails-1.6.7+forge-mc1.20.1.jar"
         },
         {
             "name": "incapacitated-1.20.1-1.4.4.2.jar",
             "hash": "e60319a034a5fedd3b1bfabc15116b33",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/incapacitated-1.20.1-1.4.4.2.jar"
+        },
+        {
+            "name": "design_decor-0.4.0b-1.20.1.jar",
+            "hash": "0448b0a460b69c9f1bed3c0da9aa73c1",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/design_decor-0.4.0b-1.20.1.jar"
         },
         {
             "name": "journeymap-1.20.1-5.10.3-forge.jar",
@@ -73,24 +108,49 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/jei-1.20.1-forge-15.20.0.129.jar"
         },
         {
+            "name": "inventorysorter-1.20.1-23.0.11.jar",
+            "hash": "e36d0a4aff7d73dd2fc9b58695b55c5e",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/inventorysorter-1.20.1-23.0.11.jar"
+        },
+        {
+            "name": "voicechat-forge-1.20.1-2.6.14.jar",
+            "hash": "ace539c20d8fbf5d3c4a3c13d4c07b10",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/voicechat-forge-1.20.1-2.6.14.jar"
+        },
+        {
             "name": "lootr-forge-1.20-0.7.35.91.jar",
             "hash": "512ee49d21782875b33513fb074eb098",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/lootr-forge-1.20-0.7.35.91.jar"
         },
         {
-            "name": "create-1.20.1-6.0.8.jar",
-            "hash": "6ebc5c57638c1678359eac65b924c310",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/create-1.20.1-6.0.8.jar"
+            "name": "valkyrienskies-120-2.3.0-beta.10.jar",
+            "hash": "fbcb83454279f2a47223ee80425f151a",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/valkyrienskies-120-2.3.0-beta.10.jar"
         },
         {
-            "name": "sophisticatedcore-1.20.1-1.3.3.1482.jar",
-            "hash": "530785fca963155074190a5e62bd5eba",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/sophisticatedcore-1.20.1-1.3.3.1482.jar"
+            "name": "CTM-1.20.1-1.1.10.jar",
+            "hash": "573b6524784b3c56bfb47d8552ce4835",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/CTM-1.20.1-1.1.10.jar"
         },
         {
-            "name": "waystones-forge-1.20.1-14.1.18.jar",
-            "hash": "deff2b7c26f63c78000f208495de3e0b",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/waystones-forge-1.20.1-14.1.18.jar"
+            "name": "chisel-1.20.1-Forge-1.3.2.jar",
+            "hash": "1ceff7864d350a5373c7f9f48bfc1c9e",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/chisel-1.20.1-Forge-1.3.2.jar"
+        },
+        {
+            "name": "createrailwaysnavigator-forge-1.20.1-beta-0.8.4.jar",
+            "hash": "79937b32802ba1be7fa52cb0a454e1e8",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/createrailwaysnavigator-forge-1.20.1-beta-0.8.4.jar"
+        },
+        {
+            "name": "modernfix-forge-5.26.2+mc1.20.1.jar",
+            "hash": "61332114c9c317080faaf35f8183d67b",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/modernfix-forge-5.26.2+mc1.20.1.jar"
+        },
+        {
+            "name": "musicbox-forge-2.0.2+1.20.1.jar",
+            "hash": "0791ffa9cf4af1834ac214867811abfd",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/musicbox-forge-2.0.2+1.20.1.jar"
         },
         {
             "name": "LuckPerms-Forge-5.4.102.jar",
@@ -98,14 +158,39 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/LuckPerms-Forge-5.4.102.jar"
         },
         {
+            "name": "create-1.20.1-0.5.1.j.jar",
+            "hash": "db945b2441efa1a136d3f86126a6f813",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/create-1.20.1-0.5.1.j.jar"
+        },
+        {
             "name": "architectury-9.2.14-forge.jar",
             "hash": "76b40d407b6bf0257dd1dab6d3d395d5",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/architectury-9.2.14-forge.jar"
         },
         {
+            "name": "effortlessbuilding-1.20.1-3.9-all.jar",
+            "hash": "3f9ee157d91bf0e8ce3be90c70fc2741",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/effortlessbuilding-1.20.1-3.9-all.jar"
+        },
+        {
+            "name": "sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+            "hash": "499b9f228dbeafdf5ca499d1d3c84d5e",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
+        },
+        {
             "name": "Disenchanting-forge-1.20.1-2.2.4.jar",
             "hash": "ce32b95b6044cfcade5fc8bae1dd985f",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Disenchanting-forge-1.20.1-2.2.4.jar"
+        },
+        {
+            "name": "createtransmission-1.0.4+forge-create5-1.20.1.jar",
+            "hash": "afa369109c5cbbad24568230114b1168",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/createtransmission-1.0.4+forge-create5-1.20.1.jar"
+        },
+        {
+            "name": "copycats-2.2.2+mc.1.20.1-forge.jar",
+            "hash": "c2898d510ffedcb31ed888646de63b56",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/copycats-2.2.2+mc.1.20.1-forge.jar"
         },
         {
             "name": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
@@ -128,19 +213,44 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/rhino-forge-2001.2.3-build.10.jar"
         },
         {
-            "name": "effortlessbuilding-1.20.1-3.10.jar",
-            "hash": "a57660341d13ed1cc5d4f1dae9f79e20",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/effortlessbuilding-1.20.1-3.10.jar"
+            "name": "FarmersDelight-1.20.1-1.2.11.jar",
+            "hash": "50a4531d1ec39a9d314d48ac79f15271",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/FarmersDelight-1.20.1-1.2.11.jar"
         },
         {
-            "name": "trotting_wagons-1.0.4.jar",
-            "hash": "1827e0bef6458ab33ee580b8a886c09e",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/trotting_wagons-1.0.4.jar"
+            "name": "Radars 0.3.5 -Create5.jar",
+            "hash": "a0a9b5098cad92f4cad688d05e990bfe",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Radars 0.3.5 -Create5.jar"
         },
         {
-            "name": "geckolib-forge-1.20.1-4.8.3.jar",
-            "hash": "33b0f8fe0a8d59fcf9d4e222741ecba7",
-            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/geckolib-forge-1.20.1-4.8.3.jar"
+            "name": "kotlinforforge-4.11.0-all.jar",
+            "hash": "417caa90d17dc86cf7d24b802c2a5c56",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/kotlinforforge-4.11.0-all.jar"
+        },
+        {
+            "name": "clockwork-1.20.1-0.1.13-forge-8cf946b78e.jar",
+            "hash": "7b7638a9545159d53b2f5c5d801dab86",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/clockwork-1.20.1-0.1.13-forge-8cf946b78e.jar"
+        },
+        {
+            "name": "trackwork-1.20.1-1.1.1b.jar",
+            "hash": "38d5ea9c24c811035a7097c780c0ab95",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/trackwork-1.20.1-1.1.1b.jar"
+        },
+        {
+            "name": "waystones-forge-1.20.1-14.1.20.jar",
+            "hash": "eb4dcdc36470b7fd858c39547ad1c7d2",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/waystones-forge-1.20.1-14.1.20.jar"
+        },
+        {
+            "name": "ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar",
+            "hash": "75c9b3b1a1ac271342b7e7161b4da2f2",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar"
+        },
+        {
+            "name": "baguettelib-1.20.1-Forge-1.1.6.jar",
+            "hash": "f729a7d6d7b28ef14e4e8461a5396566",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/baguettelib-1.20.1-Forge-1.1.6.jar"
         }
     ]
 }
