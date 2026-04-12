@@ -13,6 +13,11 @@
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/createaddition-1.20.1-1.2.5.jar"
         },
         {
+            "name": "eureka-1201-1.5.3-beta.4.jar",
+            "hash": "a0369c86fdeb7d239d441552e8746581",
+            "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/eureka-1201-1.5.3-beta.4.jar"
+        },
+        {
             "name": "Creeper Damage Control v1.0.0.jar",
             "hash": "34887fcdd42e6f72e00d34c31edb9797",
             "url": "https://raw.githubusercontent.com/Cemecla/mc-mods/main/Creeper Damage Control v1.0.0.jar"
